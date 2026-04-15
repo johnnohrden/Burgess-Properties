@@ -1,6 +1,6 @@
 # Burgess Properties Website Rebuild
 
-A ground-up rebuild of the website for Burgess Properties, LLC, a commercial real estate brokerage based in Massachusetts. Built and maintained by John Nohrden.
+A rebuild of the website for Burgess Properties, LLC, a commercial real estate brokerage based in Massachusetts. Built and maintained by John Nohrden.
 
 ## Built With
 - Vanilla HTML, CSS, and JavaScript

@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xargs -I {} sh -c 'echo \"=== {} ===\" && head -50 \"{}\"')",
+      "Bash(xargs -I {} stat -f%z {})",
+      "Bash(awk '{s+=$1} END {printf \"Total image size: %.2f MB\\\\n\", s/1024/1024}')",
+      "Bash(awk '{s+=$1} END {printf \"Total video size: %.2f MB\\\\n\", s/1024/1024}')",
+      "Bash(grep -r \"XID\\\\|csrf\" /Users/johnnohrden/site-folder/www.burgessproperties.com/*.html)",
+      "Bash(grep -r \"http://\" /Users/johnnohrden/site-folder/www.burgessproperties.com/*.html)",
+      "Bash(grep -r \"src=\\\\\"https\\\\|href=\\\\\"https\" /Users/johnnohrden/site-folder/www.burgessproperties.com/*.html)",
+      "Bash(grep -r 'alt=\"\"' /Users/johnnohrden/site-folder/www.burgessproperties.com/*.html)",
+      "Bash(grep -r 'alt=\"{' /Users/johnnohrden/site-folder/www.burgessproperties.com/*.html)",
+      "Bash(grep -r 'href=\".*\\\\.html%' /Users/johnnohrden/site-folder/www.burgessproperties.com/*.html)",
+      "Bash(grep -r 'href=\"assets/css' /Users/johnnohrden/site-folder/www.burgessproperties.com/*.html)",
+      "Bash(grep -r \"Monsterrat\\\\|Montserrat\" /Users/johnnohrden/site-folder/www.burgessproperties.com/assets/css/main.css?v1.0.css)",
+      "Bash(grep:*)",
+      "Bash(cp \"assets/css/bootstrap.css?v1.1.css\" assets/css/bootstrap.css)",
+      "Bash(cp \"assets/css/main.css?v1.0.css\" assets/css/main.css)",
+      "Bash(python3:*)"
+    ]
+  }
+}

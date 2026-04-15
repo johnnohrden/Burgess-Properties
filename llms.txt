@@ -1,0 +1,43 @@
+# Burgess Properties
+
+> Commercial real estate brokerage specializing in Greater Boston's suburban markets. Tenant representation, landlord representation, investment sales, and user property sales across all asset types.
+
+## About
+
+Burgess Properties is a Boston-area commercial real estate firm with deep expertise in the suburban markets north and east of Boston — including Malden, Medford, Everett, Chelsea, East Boston, Woburn, Wilmington, Saugus, Peabody, Revere, and surrounding communities.
+
+The firm has been recognized by the Boston Business Journal as one of the largest commercial real estate leasing and selling broker firms in Massachusetts, and holds CoStar Power Broker status. The principals are members of SIOR (Society of Industrial and Office Realtors), New England Chapter.
+
+Phone: 781-321-5200
+
+## Services
+
+- **Tenant Representation** — Site selection, lease negotiation, and advisory services for businesses seeking space
+- **Landlord Representation** — Marketing, leasing, and asset management for property owners
+- **Investment Sales** — Acquisition and disposition of income-producing commercial assets
+- **User Property Sales** — Buying and selling owner-occupied commercial real estate
+
+Asset types covered: office, flex, R&D, industrial, warehouse, retail, mixed-use, multi-family, and development sites.
+
+## Active Listings
+
+Current listings include properties in Malden, Everett, Peabody, Chelsea, and Charlestown. See [listings page](listings.html) for details on available properties including size, pricing, and property type.
+
+## Recent Transactions
+
+The firm has completed transactions with clients including ABC Supply Co., Amazon, Boar's Head, Boston University, Central Rock Gym, CVS, Eastern Bank, Equity Residential, Harvard, Hood, MBTA, Midea, NorthBridge, Oliver Street, Prologis, Rivian, Staples, The Davis Companies, Warner Bros., and Wegmans.
+
+## Pages
+
+- [Home](index.html) — Overview, services, and client relationships
+- [Listings](listings.html) — Active commercial properties for lease and sale, filterable by type
+- [Recent Transactions](recent-transactions.html) — Completed deals and client representation examples
+- [About](about.html) — Firm background and broker profiles
+- [Contact](contact.html) — Office location, phone number, and inquiry form
+
+## Legal
+
+- [Privacy Policy](privacy-policy.html)
+- [Cookie Policy](cookie-policy.html)
+- [Terms of Service](terms-of-service.html)
+- [Disclaimer](disclaimer.html)
